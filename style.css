@@ -1,0 +1,30 @@
+h2{
+    font-family: Arial Black;
+    
+}
+h1{
+    color: #0584a1;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.maa{
+    background-color: #0584a1;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+img{
+    margin-left: 500px;
+    border-radius: 50%;
+    border: 10px solid white ;
+}
+ul{
+    color: #0584a1;
+    text-align: left;
+    font-size: 130%;
+    font-weight: 800;
+}
